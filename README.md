@@ -9,7 +9,7 @@ The exercises cover core concepts such as data manipulation, visualization, stat
 - `data/` — Sample datasets used for practice.
 - `README.md` — This file
 
-- ## 🛠️ Technologies & Libraries
+## 🛠️ Technologies & Libraries
 
 - Python 3.8
 - NumPy
